@@ -1,0 +1,43 @@
+.navigation {
+width:100%;
+background-color:#33CCFF;
+float:right;
+padding:0em 0em 1em 0em;
+margin:0em;
+}
+
+.navigation li {
+float:left;
+margin: 0 0 0 1em;
+padding:0em 1em 0em 0em;
+list-style:none;
+}
+
+.navigation li a {
+font-weight:bold;
+color:#ffffff;
+padding: 0.5em 1em;
+text-decoration:none;
+}
+
+.navigation li a:hover,
+.navigation li a:focus {
+color: #000000;
+background-color:#ffffff;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    -o-border-radius:10px;
+    border-radius:10px;
+}
+
+.content {
+clear:both;
+}
+
+.advice {
+color:red;
+}
+
+.bold {
+font-weight:bold;
+}
