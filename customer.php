@@ -19,6 +19,9 @@
 		<li><a href="#orderhistory">Order History</a></li>
 	</ul>
 	</section>
+	<section>
+	<span class="advice">Success (or failure) notification of any of the below actions when returning to customer page.</span>
+	
 	<section id="customerdetails">
 	<h2>Customer Details</h2>
 		<p>Address, email and phone number<br />
